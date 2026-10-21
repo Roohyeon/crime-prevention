@@ -3,7 +3,7 @@
 경찰청 공공데이터(**범죄 발생 장소별 통계**)로 "어떤 장소에서 범죄가 얼마나 일어났는지" 순위를 보여주는 React 웹앱입니다.
 API 키는 서버(Vercel 함수)에만 두고, 브라우저에는 절대 내려가지 않게 만들었습니다.
 
-**배포 주소:** https://crime-prevention-one.vercel.app (`main`에 push하면 Vercel이 자동으로 다시 배포)
+**배포 주소:** https://crime-prevention-ten.vercel.app (`main`에 push하면 Vercel이 자동으로 다시 배포)
 
 ## 구조 한눈에 보기
 
